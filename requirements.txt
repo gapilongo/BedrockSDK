@@ -1,0 +1,4 @@
+boto3==1.33.8
+flask
+flask_cors
+os
